@@ -1,18 +1,16 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
- * Description: 'the program's description'
- * 
- * Return: Always 0 (Success)
+ * printf: Prints sizes of characters
+ * Return:0
  */
 int main(void)
 {
-	char a;
-	int b;
-	long int c;
-	long long int d;
-	float f;
+        char a;
+        int b;
+        long int c;
+        long long int d;
+        float f;
 
 printf("Size of a char: %lu byte(s)\n", (unsigned long) sizeof(a));
 printf("Size of an int: %lu byte(s)\n", (unsigned long)  sizeof(b));
