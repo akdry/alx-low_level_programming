@@ -1,3 +1,8 @@
+/**
+ * @file 6-size.c
+ * @brief A program that prints the size of various types in C.
+ */
+
 #include <stdio.h>
 /**
  * The main function of the program.
