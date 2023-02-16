@@ -1,20 +1,5 @@
-/**
- * @file 6-size.c
- * @brief Prints the size of various types on the computer it is compiled and run on.
- *
- * The program prints the size of char, int, long int, long long int, and float types in bytes.
- *
- * Return: Always 0.
- */
-
 #include <stdio.h>
-/**
- * The main function of the program.
- *
- * This function prints the size of various types in C.
- *
- * @return 0 if the program ran successfully.
- */
+
 int main(void)
 {
 printf("Size of a char: %ld byte(s)\n", sizeof(char));
@@ -26,3 +11,4 @@ printf("Size of a float: %ld byte(s)\n", sizeof(float));
 return (0);
 }
 
+~         
