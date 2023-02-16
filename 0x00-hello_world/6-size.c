@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * printf: Prints sizes of characters
- * Return:0
+ * 
+ * Description: 'the program's description'
+ * 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
