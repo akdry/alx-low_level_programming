@@ -2,12 +2,8 @@
 /**
  * main - Entry point
  * printf: Prints sizes of characters
-<<<<<<< HEAD
  *
  * Return: Always 1 (Error)
-=======
- * Return: 1 (Success)
->>>>>>> 6ca569e4a907f878575251d498c9c4bdb10d2011
  */
 int main(void)
 {
