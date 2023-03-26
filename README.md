@@ -22,7 +22,7 @@ This repository contains programs written for the low-level programming and algo
 
 ## Author :black_nib:
 
-* **ahmed kadry** <[akdry]((https://github.com/akdry))>
+* **ahmed kadry** <[akdry](https://github.com/akdry)>
 
 ## Acknowledgements :pray:
 
