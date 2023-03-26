@@ -4,8 +4,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### Requirements
 
-The things you need before installing the software.
-
 # C
 
 * Allowed editors: vi, vim, emacs
