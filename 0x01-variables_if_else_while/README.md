@@ -33,7 +33,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * What are the purpose of the gcc flags -m32 and -m64
 
 
-## 0x01. C - Variables, if, else, while
+## 0x01. C - Variables, if, else, while 
 
 ## Tasks
 
